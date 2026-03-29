@@ -1,7 +1,3 @@
-Here’s a clean and professional **README content** for your **Stock Portfolio Tracker** 👇
-
----
-
 ## 📌 Project Title
 
 **Stock Portfolio Tracker (CodeAlpha Task 2)**
