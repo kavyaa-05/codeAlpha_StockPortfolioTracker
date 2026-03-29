@@ -33,3 +33,9 @@ python portfolio.py
 * 🔤 Input/Output
 * ➕ Basic Arithmetic
 * 💾 File Handling (optional)
+
+
+## 🎥 Demo Video
+[Watch the demo](https://github.com/kavyaa-05/codeAlpha_StockPortfolioTracker/blob/main/portfoliotracker.mp4)
+
+
